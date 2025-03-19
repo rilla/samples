@@ -1,1 +1,6 @@
-{"_base":"https://raw.githubusercontent.com/algoravedave/samples/","bydesign":["bydesign"],"cocaina":["cocaina"]"]}
+{
+  "samples": {
+    "cocaina": "https://raw.githubusercontent.com/algorave-dave/samples/main/cocaina/cocaina.wav",
+    "bydesign": "https://raw.githubusercontent.com/algorave-dave/samples/main/bydesign/bydesign.wav"
+  }
+}
