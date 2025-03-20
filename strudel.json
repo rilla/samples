@@ -1,6 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/algorave-dave/samples/main/",
   "spilltab": "spilltab/spilltab.wav",
-  "cocaina": "cocaina/cocaina.wav"
-  "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"]
+  "cocaina": "cocaina/cocaina.wav",
+  "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"],
+  "trial": "trial/forget.wav"]
 }
