@@ -7,5 +7,6 @@
   "overgame": "overgame/overgame.wav",
   "giveittome": ["giveittome/ah.wav", "giveittome/chorus.wav"],
   "ecotone": "ecotone/ecotone.wav",
-  "technologic": "technologic/technologic_vox.wav"
+  "technologic": "technologic/technologic_vox.wav",
+  "forget": "forget/forget.wav"
 }
