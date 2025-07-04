@@ -7,5 +7,6 @@
   "giveittome": ["giveittome/ah.wav", "giveittome/chorus.wav"],
   "ecotone": "ecotone/ecotone.wav",
   "technologic": "technologic/technologic_vox.wav",
-  "forget": "forget/forget.wav"
+  "forget": "forget/forget.wav",
+  "hard_refresh": ["hard_refresh/prechorus.wav", "hard_refresh/verse1.wav", "hard_refresh/verse2.wav"]
 }
